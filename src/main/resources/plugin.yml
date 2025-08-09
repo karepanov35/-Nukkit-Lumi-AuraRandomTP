@@ -1,0 +1,15 @@
+name: AuraRandomTP
+main: ru.karepanov35.aurarandomtp.AuraRandomTP
+version: 1.0.0
+api: 1.0.0
+author: karepanov35
+description: Плагин случайной телепортации для Lumi Core
+commands:
+  rtp:
+    description: Телепортирует игрока в случайное безопасное место
+    usage: /<command>
+    permission: aurarandomtp.command
+permissions:
+  aurarandomtp.command:
+    description: Разрешает использование команды /rtp
+    default: true

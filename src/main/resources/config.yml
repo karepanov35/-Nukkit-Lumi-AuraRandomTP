@@ -1,0 +1,16 @@
+# Конфигурация плагина AuraRandomTP
+min-x: -1000
+max-x: 1000
+min-z: -1000
+max-z: 1000
+max-attempts: 100
+min-y: 1
+max-y: 256
+teleport-delay: 5
+messages:
+  only-players: "§6❱ §cЭта команда только для игроков!"
+  teleport-success: "§6❱ §fВы успешно телепортировались на координаты: §6{x}, {y}, {z}."
+  title-teleport: "§aТелепортация!"
+  subtitle-teleport: "§6❱ §fТелепортация на координаты: §6{x}, {y}, {z}."
+  title-delay: "§aТелепортация"
+  subtitle-delay: "§fТелепортация через {seconds} сек..."
