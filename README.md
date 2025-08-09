@@ -3,11 +3,13 @@
   src="https://img.shields.io/badge/version-1.0.0-yellow?style=flat-square" 
   alt="Version 1.0.0" 
   style="width: auto; height: 28px;">
+<a href="https://github.com/karepanov35/-Nukkit-Lumi-AuraRandomTP/blob/main/LICENSE" target="_blank">
 <img 
   src="https://img.shields.io/badge/License-GPL-orange?style=flat-square" 
   alt="GPL License" 
   style="height: 28px; width: auto;">
-  <a href="https://yandex.ru/search/?text=karepanov35&lr=76&clid=2411726" target="_blank">
+  </a>
+  <a href="https://github.com/karepanov35/-Nukkit-Lumi-AuraRandomTP/blob/main/LICENSE" target="_blank">
   <img src="https://img.shields.io/badge/24serv_Page-click_me-blue?style=for-the-badge" alt="24serv Page" style="height: 28px;">
   </a>
   ________________
