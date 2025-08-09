@@ -9,7 +9,7 @@
   alt="GPL License" 
   style="height: 28px; width: auto;">
   </a>
-  <a href="https://github.com/karepanov35/-Nukkit-Lumi-AuraRandomTP/blob/main/LICENSE" target="_blank">
+  <a href="https://talk.24serv.pro/t/lumi-pnx-aurarandomtp-randomnaya-teleportacziya/32179" target="_blank">
   <img src="https://img.shields.io/badge/24serv_Page-click_me-blue?style=for-the-badge" alt="24serv Page" style="height: 28px;">
   </a>
   ________________
@@ -19,7 +19,7 @@ AuraRandomTP is a plugin for Bedrock Edition designed to create random player te
 ## 🛠 Installation
 
 1. **Download** the latest version:  
-   *(Replace with your actual GitHub release URL)*
+   [*AuraRandomTP-1.0.0.jar*](https://github.com/karepanov35/-Nukkit-Lumi-AuraRandomTP/blob/main/AuraRandomTP-1.0.0.jar)
 
 2. **Place** the `AuraRandomTP-1.0.0.jar` file into your server's `plugins` folder.
 
